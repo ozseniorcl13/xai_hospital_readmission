@@ -1,3 +1,8 @@
+seaborn
+numpy
+pandas
+jupyter
+matplotlib
 black
 tensorflow
 tensorflow-addons
