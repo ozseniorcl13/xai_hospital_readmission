@@ -4,5 +4,9 @@ pandas
 jupyter
 matplotlib
 black
+scikit-learn
 tensorflow
 tensorflow-addons
+missingno
+catboost
+ipywidgets
